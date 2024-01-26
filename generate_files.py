@@ -1,3 +1,5 @@
+# This is the script to generate 20 text files and store them in the tmp/data directory 
+
 import os
 import random
 import string
